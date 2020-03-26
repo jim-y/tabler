@@ -1,2 +1,0 @@
-# tabler
-React Table
